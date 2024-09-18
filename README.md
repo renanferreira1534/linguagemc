@@ -1,2 +1,2 @@
-#estudo da linguagem c
-##uniadde curricular 9 -Desenvolver Algoritimos
+# estudo da linguagem c
+## unidade curricular 9 -Desenvolver Algoritimos
